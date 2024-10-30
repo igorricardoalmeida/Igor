@@ -1,0 +1,30 @@
+html{
+    background-color: aliceblue;
+    padding: 5rem;
+}
+
+body{
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-color: blue 3px;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+img{
+    border-radius: 120px;
+    width: 100px;
+    padding: 2rem;
+}
+.perfil{
+    font-size: 28px;
+    color: azure; 
+    font-family:verdana ;
+}
+h1{
+    font-size: 36px;  
+      
+}
